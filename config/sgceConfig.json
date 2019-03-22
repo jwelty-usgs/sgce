@@ -1,0 +1,26 @@
+{
+  "DEFAULT": {
+    "SBUSER": "XXXX",
+    "SBPASS": "XXXX",
+    "SECRETKEY": "XXXX",
+    "EMAILHOSTUSER": "XXXX",
+    "EMAILHOSTPASSWORD": "XXXX",
+    "DEFAULT_FROM_EMAIL": "XXXX",
+    "SERVER_EMAIL": "XXXX",
+    "EMAIL_HOST": "XXXX",
+    "EMAIL_PORT": 000,
+    "DBNAME": "XXXX",
+    "DBUSER1": "XXXX",
+    "DBPASSWORD1": "XXXX",
+    "DBUSER": "XXXX",
+    "DBPASSWORD": "XXXX",
+    "DBHOST": "XXXX",
+    "SGCEPATH": "XXXX",
+    "DATAPATH": "XXXX",
+    "FILEPATH": "XXXX",
+    "ALLOWED_HOST": "XXXX",
+    "APPDEBUG": "XXXX",
+    "AGOLUsername": "XXXX",
+    "AGOLPassword": "XXXX"
+  }
+}
